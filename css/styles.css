@@ -1,0 +1,19 @@
+body {
+  background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  background-repeat: no-repeat;
+  background-size: ;
+}
+hr {
+  border-style: dotted none none;
+  width: 10%;
+  border-color: rgba(128, 128, 128, 0.394);
+  border-width: 10px;
+}
+h1,
+h4 {
+  margin: auto;
+}
+h3 {
+  margin: auto;
+  padding-left: 30px;
+}
